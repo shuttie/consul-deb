@@ -1,3 +1,27 @@
+consul (0.6.4-1~utopic1~ppa1) utopic; urgency=low
+
+  * No-change build for Utopic.
+
+ -- Roman Grebennikov <grv@dfdx.me>  Fri, 25 Mar 2016 13:19:47 +0000
+
+consul (0.6.4-1~trusty1~ppa1) trusty; urgency=low
+
+  * No-change build for Trusty.
+
+ -- Roman Grebennikov <grv@dfdx.me>  Fri, 25 Mar 2016 13:19:47 +0000
+
+consul (0.6.4-1~precise1~ppa1) precise; urgency=low
+
+  * New upstream release.
+
+ -- Roman Grebennikov <grv@dfdx.me>  Fri, 25 Mar 2016 13:19:47 +0000
+
+consul (0.6.4-1~trusty1~ppa1) trusty; urgency=low
+
+  * New upstream release.
+
+ -- Roman Grebennikov <grv@dfdx.me>  Fri, 25 Mar 2016 13:19:47 +0000
+
 consul (0.4.1-1~utopic1~ppa1) utopic; urgency=low
 
   * No-change build for Utopic.
